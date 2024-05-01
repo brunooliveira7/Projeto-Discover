@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto Devlinks" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Devlinks" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Devlinks é um agregador de links para ser usado como cartão de visitas online.
+O Devlinks é um agregador de links para ser usado como cartão de visitas.
 
 ## 🔖 Layout
 
