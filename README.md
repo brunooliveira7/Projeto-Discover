@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+DevLinks é uma página com tecnologias WEB.
 </p>
 
 <p align="center">
@@ -12,14 +12,14 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="https://github.com/brunooliveira7/ProjetoDiscover/blob/main/assets/Dark.jpeg">
+</p>
+
+<p align="center">
+  <img alt="License" src="https://github.com/brunooliveira7/ProjetoDiscover/blob/main/assets/Ligth.jpeg">
 </p>
 
 <br>
-
-<p align="center">
- <img alt="Projeto Devlinks" src=".github/Preview.jpg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
@@ -41,7 +41,3 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
