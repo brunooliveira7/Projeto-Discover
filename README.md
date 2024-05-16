@@ -21,7 +21,7 @@ DevLinks é uma página com tecnologias WEB.
 
 <br>
 
-## 🚀 Tecnologias
+## 🧑🏻‍💻 Tecnologias
 
 Projeto desenvolvido com as seguintes tecnologias:
 
