@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-DevLinks é uma página com tecnologias WEB.
+DevLinks é uma página com tecnologias WEB de fácil acesso utilizando-se de uma lista de botões. Site disponível em: https://brunooliveira7.github.io/Projeto-Discover/
 </p>
 
 <p align="center">
